@@ -1,2 +1,2 @@
 # Hotel-BT-landing-page-design
-made with html, css
+Created with html, css
